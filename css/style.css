@@ -18,3 +18,10 @@ Tags: flexible-header, custom-colors, custom-menu, custom-logo, editor-style, fe
     background-image: url('../images/bannerfinal.png') ; 
   background-size: cover; 
 }
+
+@media (min-width: 768px) {
+  .onde{margin-left: 40%}
+}
+@media (max-width: 768px) {
+  .onde{margin-left: 25%;}
+}
