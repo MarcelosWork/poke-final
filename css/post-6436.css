@@ -1,0 +1,22 @@
+.elementor-6436 .elementor-element.elementor-element-929987f > .elementor-container{max-width:500px;min-height:248px;}.elementor-6436 .elementor-element.elementor-element-929987f:not(.elementor-motion-effects-element-type-background), .elementor-6436 .elementor-element.elementor-element-929987f > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:#DCEFF3;}.elementor-6436 .elementor-element.elementor-element-929987f, .elementor-6436 .elementor-element.elementor-element-929987f > .elementor-background-overlay{border-radius:20px 20px 20px 20px;}.elementor-6436 .elementor-element.elementor-element-929987f{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;margin-top:0px;margin-bottom:0px;padding:4% 5% 4% 5%;}.elementor-6436 .elementor-element.elementor-element-929987f > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-6436 .elementor-element.elementor-element-ee6dfc7{text-align:center;}.elementor-6436 .elementor-element.elementor-element-ee6dfc7 .elementor-heading-title{color:var( --e-global-color-014ab8f );font-family:"Avner", Sans-serif;font-size:31px;font-weight:700;}.elementor-6436 .elementor-element.elementor-element-4fe8a03 img{width:100%;}.elementor-6436 .elementor-element.elementor-element-6927e56 img{width:100%;}.elementor-6436 .elementor-element.elementor-element-c419629 img{width:100%;}.elementor-6436 .elementor-element.elementor-element-d700423 img{width:100%;}.elementor-6436 .elementor-element.elementor-element-4a71974 img{width:100%;}.elementor-6436 .elementor-element.elementor-element-5bcdd36 img{width:100%;}.elementor-6436 .elementor-element.elementor-element-fc6c469 img{width:100%;}#elementor-popup-modal-6436 .dialog-message{width:100%;height:auto;padding:0px 0px 0px 0px;}#elementor-popup-modal-6436{justify-content:flex-end;align-items:flex-start;pointer-events:all;background-color:#00000000;}#elementor-popup-modal-6436 .dialog-close-button{display:flex;}#elementor-popup-modal-6436 .dialog-widget-content{animation-duration:0.3s;border-radius:20px 20px 20px 20px;box-shadow:2px 8px 23px 3px rgba(0,0,0,0.2);margin:100px 25px 0px 0px;}@media(max-width:1024px){.elementor-6436 .elementor-element.elementor-element-ee6dfc7 .elementor-heading-title{font-size:4.7vw;}}@media(max-width:767px){.elementor-6436 .elementor-element.elementor-element-929987f > .elementor-container{min-height:378px;}.elementor-6436 .elementor-element.elementor-element-ee6dfc7 .elementor-heading-title{font-size:8.8vw;}.elementor-6436 .elementor-element.elementor-element-ee6dfc7 > .elementor-widget-container{margin:0px 0px 0px 0px;padding:0% 5% 0% 0%;}.elementor-6436 .elementor-element.elementor-element-ad5797d{width:33%;}.elementor-6436 .elementor-element.elementor-element-976f4ce{width:33%;}.elementor-6436 .elementor-element.elementor-element-e543283{width:33%;}.elementor-6436 .elementor-element.elementor-element-25e1321{width:33%;}.elementor-6436 .elementor-element.elementor-element-3903c99{width:33%;}.elementor-6436 .elementor-element.elementor-element-a67063a{width:33%;}.elementor-6436 .elementor-element.elementor-element-b009545{width:33%;}.elementor-6436 .elementor-element.elementor-element-001c18e{width:33%;}.elementor-6436 .elementor-element.elementor-element-30a2f39{width:33%;}#elementor-popup-modal-6436 .dialog-message{width:100%;}#elementor-popup-modal-6436{justify-content:flex-start;align-items:flex-start;}#elementor-popup-modal-6436 .dialog-widget-content{margin:67px 0px 0px 0px;}}@media(min-width:768px){.elementor-6436 .elementor-element.elementor-element-44060a1{width:46.361%;}.elementor-6436 .elementor-element.elementor-element-be185c2{width:53.639%;}}/* Start Custom Fonts CSS */@font-face {
+	font-family: 'Avner';
+	font-style: normal;
+	font-weight: bold;
+	font-display: auto;
+	src: url('../fonts/AvenirNextCondensed-Bold-01.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Avner';
+	font-style: normal;
+	font-weight: normal;
+	font-display: auto;
+	src: url('../fonts/AvenirNextCondensed-Regular-08.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Avner';
+	font-style: normal;
+	font-weight: 500;
+	font-display: auto;
+	src: url('../fonts/AvenirNextCondensed-Medium-06.ttf') format('truetype');
+}
+/* End Custom Fonts CSS */
